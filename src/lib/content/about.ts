@@ -15,5 +15,5 @@ export const aboutSection: AboutSectionType = {
         'MySQL'
     ],
     },
-    img: '/rohit.jpg',
+    img: 'https://github.com/imrohitkr/portfolio-website/assets/94630124/3f3dae09-74ec-451f-8d48-c8c73fe55e5f',
 };

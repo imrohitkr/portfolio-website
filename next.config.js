@@ -18,6 +18,11 @@ module.exports = {
         hostname: 'www.homemakerproperties.com',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'github.com',
+        pathname: '/**',
+      },
     ],
   },
 };
